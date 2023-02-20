@@ -6,6 +6,7 @@ from scipy import optimize
 from matplotlib.font_manager import FontProperties
 font = FontProperties(fname=r"c:\windows\fonts\simsun.ttc", size=14)    # 解决windows环境下画图汉字乱码问题
 
+#test
 from sklearn import datasets
 from sklearn.preprocessing import StandardScaler
 import time
